@@ -1,0 +1,254 @@
+* {box-sizing: border-box;}
+header {
+    background: url(../images/slide4.jpg);
+    background-size: cover;
+    background-size: auto;
+    padding: 200px;
+
+}
+
+.top-header {
+    margin-top: 200px;
+}
+
+.food {
+    background: red;
+    color: #fff;
+    padding: 5px 20px;
+
+}
+
+h1 {
+    font-size: 3rem;
+    margin-top: 30px;
+    color: #fff;
+}
+
+.write {
+    font-size: 1.5rem;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.buy {
+    background: red;
+    color: #fff;
+    padding: 20px 20px;
+    display: inline-block;
+}
+
+.buy:hover {
+    text-decoration: none;
+    color: #fff;
+    background: #d8090b;
+}
+
+.top-center {
+    background: #da1315;
+    padding: 100px;
+}
+
+.thongtin {
+    padding: 10px;
+    padding-right: 160px;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    padding: 22px 0;
+    color: #924848;
+}
+
+.hour {
+    padding: 11px;
+    padding-right: 270px;
+    color: #924848;
+}
+
+.delivery {
+    background: #fff;
+    color: black;
+    padding: 15px 25px;
+}
+
+.delivery:hover {
+    background: black;
+    color: #fff;
+    text-decoration: none;
+}
+
+.mid-center {
+    background: url(../images/bg.jpg);
+    background-size: cover;
+    background-size: auto;
+    padding: 100px;
+}
+
+.KrustyBurger {
+    border: #f8e0bc 1px dotted;
+    margin-bottom: 25px;
+}
+.KrustyBurger:hover {
+    background: url(../images/menu01.jpg);
+    color: transparent;
+    
+}
+.KrustyBurger:hover .count1 {
+    padding: 10px;
+    background: red;
+    border-radius: 99%;
+    color: #fff;
+    transition: .5s ease;
+}
+
+.SounthBurger {
+    border: #f8e0bc 1px dotted;
+    margin-bottom: 25px;
+}
+.SounthBurger:hover {
+    background: url(../images/menu03.jpg);
+    color: transparent;
+}
+.SounthBurger:hover .count1 {
+    padding: 10px;
+    background: red;
+    border-radius: 99%;
+    color: #fff;
+    transition: .5s ease;
+}
+
+.FrenchBurger {
+    border: #f8e0bc 1px dotted;
+    margin-bottom: 25px;
+}
+.FrenchBurger:hover {
+    background: url(../images/menu06.jpg);
+    color: transparent;
+}
+.FrenchBurger:hover .count1 {
+    padding: 10px;
+    background: red;
+    border-radius: 99%;
+    color: #fff;
+    transition: .5s ease;
+}
+
+.KingBurger {
+    border: #f8e0bc 1px dotted;
+    margin-bottom: 25px;
+}
+.KingBurger:hover {
+    background: url(../images/menu07.jpg);
+    color: transparent;
+}
+.KingBurger:hover .count1 {
+    padding: 10px;
+    background: red;
+    border-radius: 99%;
+    color: #fff;
+    transition: .5s ease;
+}
+
+.ClassicBurger {
+    border: #f8e0bc 1px dotted;
+    margin-bottom: 25px;
+}
+.ClassicBurger:hover {
+    background: url(../images/menu02.jpg);
+    color: transparent;
+}
+.ClassicBurger:hover .count1 {
+    padding: 10px;
+    background: red;
+    border-radius: 99%;
+    color: #fff;
+    transition: .5s ease;
+}
+
+.ChickenBurger {
+    border: #f8e0bc 1px dotted;
+    margin-bottom: 25px;
+}
+.ChickenBurger:hover {
+    background: url(../images/menu04.jpg);
+    color: transparent;
+}
+.ChickenBurger:hover .count1 {
+    padding: 10px;
+    background: red;
+    border-radius: 99%;
+    color: #fff;
+    transition: .5s ease;
+}
+
+.HalloumiBurger {
+    border: #f8e0bc 1px dotted;
+    margin-bottom: 25px;
+}
+.HalloumiBurger:hover {
+    background: url(../images/menu06.jpg);
+    color: transparent;
+}
+.HalloumiBurger:hover .count1 {
+    padding: 10px;
+    background: red;
+    border-radius: 99%;
+    color: #fff;
+    transition: .5s ease;
+}
+
+.AioliBurger {
+    border: #f8e0bc 1px dotted;
+    margin-bottom: 25px;
+}
+.AioliBurger:hover {
+    background: url(../images/menu08.jpg);
+    color: transparent;
+}
+.AioliBurger:hover .count1 {
+    padding: 10px;
+    background: red;
+    border-radius: 99%;
+    color: #fff;
+    transition: .5s ease;
+}
+
+.bot-center {
+    margin: 100px;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.bot-center .text {
+    margin-bottom: 40px;
+}
+
+.bot-center .buy1 {
+    padding: 10px 25px;
+    background: red;
+    color: #fff;
+    display: inline-block;
+}
+
+.buy1:hover {
+    text-decoration: none;
+    color: #fff;
+    background: #d8090b;
+}
+
+.owl-theme .sp{
+    text-align: center;
+    color: black;
+}
+.sp1:hover{
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    border: #eaeaea 1px solid;
+}
